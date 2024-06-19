@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Berat Ünver 👋
 
-<!--
-**Lorassy/Lorassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 Mobile App Developer specializing in React Native.
+- 🌐 Full Stack Developer with expertise in React and Laravel.
+- 📊 Data Analyst proficient in Python.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Languages:** TypeScript, JavaScript, PHP, Python
+- **Frameworks:** React Native, React, Laravel
+- **Tools:** Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in touch
+- **Email:** [berat@unver.dev](mailto:berat@unver.dev)
+- **LinkedIn:** [LinkedIn Profile](#https://www.linkedin.com/in/berat-%C3%BCnver-31162818b/)
