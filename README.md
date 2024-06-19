@@ -11,4 +11,4 @@
 
 ### 📫 Get in touch
 - **Email:** [berat@unver.dev](mailto:berat@unver.dev)
-- **LinkedIn:** [LinkedIn Profile](#https://www.linkedin.com/in/berat-%C3%BCnver-31162818b/)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/berat-%C3%BCnver-31162818b/)
